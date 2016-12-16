@@ -1,0 +1,6 @@
+syntax: glob
+lib/
+obj/
+proj/vs2015/RC_obj/
+proj\vs2015\RenderingContext.VC.db
+proj/vs2015/TP_obj/
